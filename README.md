@@ -1,6 +1,6 @@
 # 🚀 Jenkins-Tomcat Java Web App CI/CD Pipeline
 
-This project demonstrates how to set up a CI/CD pipeline using Jenkins to automatically build and deploy a basic Java web application to Apache Tomcat.
+This project demonstrates how to set up a CI/CD pipeline using Jenkins to automatically build and deploy a basic Java web application to Apache Tomcat & stores artifacts in nexus.
 
 ---
 
